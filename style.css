@@ -1,0 +1,47 @@
+body {
+  padding: 0px;
+  background: gray;
+  margin: 0px;
+}
+
+.box {
+  width: 90%;
+  height: 400px;
+  background: whitesmoke;
+  margin-left: 5%;
+  margin-top: 10%;
+  text-align: center;
+}
+
+#url {
+  margin-top: 10%;
+  background: none;
+  border: 2px solid #03fcd3;
+  border-radius: 5px;
+  width: 70%;
+  height: 30px;
+  
+}
+.submit{
+  width: 60%;
+  height: 30px;
+  margin-top: 10px;
+  border-radius: 5px;
+  border: 1.5px solid #03fc88;
+  background: #03fc4e;
+  box-shadow: 3px 8px 15px rgba(0, 0, 0, 0.3);
+}
+img{
+  width: 40%;
+  margin-top: 10px;
+}
+#imgDiv{
+  display: none;
+}
+h2{
+  text-align: center;
+  margin-top: 10%;
+  width: 100%;
+  color: red;
+  height: 30px;
+}
