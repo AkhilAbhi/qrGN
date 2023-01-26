@@ -19,6 +19,7 @@ button.onclick = function(){
   }
 }else{
   h2.innerHTML='Enter Text Or Url ';
+  imgdiv.style.display='none';
 }
 
 
